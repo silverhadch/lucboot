@@ -1,3 +1,3 @@
-32 Bit Legacy Bootloader für i868.
+32 Bit Legacy Bootloader für i686.
 
 Fürs Spätere weiterentwickeln eines Kernels.
