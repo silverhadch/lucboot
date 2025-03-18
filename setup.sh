@@ -8,3 +8,6 @@ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 brew install i686-elf-binutils
 
 brew install i686-elf-gcc
+
+mkdir build
+mkdir out
