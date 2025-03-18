@@ -1,4 +1,4 @@
-[BITS 16]   ; Starte in 16 Bit "Real Mode"
+[BITS 16]        ; Starte in 16 Bit "Real Mode"
 [ORG 0x7c00]     ; Typische Startadresse für Legacy Bootloaders
 
 
