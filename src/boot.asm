@@ -1,5 +1,5 @@
 [BITS 16]        ; Starte in 16 Bit "Real Mode"
-	[ORG 0x7c00]     ; Typische Startadresse für Legacy Bootloaders
+[ORG 0x7c00]     ; Typische Startadresse für Legacy Bootloaders
 
 
 	CODE_OFFSET equ 0x8   ; Setze Code Offset zu 0x8
